@@ -51,8 +51,6 @@ header.startup h1 {
   border-color: #F05F44; }
 
 .btn-primary:hover {
-  background-color: greenyellow;
-  border-color: greenyellow;
   border-width: 5px;
   cursor: pointer;
 }
